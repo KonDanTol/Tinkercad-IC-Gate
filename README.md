@@ -21,3 +21,6 @@
   <img width="364" height="262" alt="XNOR gate" src="https://github.com/user-attachments/assets/fd78ba13-3414-4eee-8d29-18f50e641442" />
   <p>Gambar diatas adalah gabungan dari 2 IC berbeda, yaitu IC 74HC04 dan IC 74HC86. Gerbang ini bekerja berkebalikan dengan XOR yang mana outputnya akan bernilai 1 jika kedua input sama 1 dengan 1, maupun 0 dengan 0.</p><br>
 </p>
+<br>
+Link:<br>
+https://www.tinkercad.com/things/4zmStTUl9VM-sistem-digital-logic-gate-ic/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Yu04fPos2Dzu7C0x4WEyBF9xvv98c_2ZRQT5KN59d2M
