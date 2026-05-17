@@ -1,8 +1,8 @@
 <p>
   <h1>TIM 1 ANGGOTA:<br></h1>
-      1. Fernando Ababil<br>
-      2. Bhanu Rouf Setyawan<br>
-      3. Muhammad Rafi Afrianto
+      2. Bhanu Rouf Setyawan / H1H025011<br>
+      1. Fernando Ababil / H1H025012<br>
+      3. Muhammad Rafi Afrianto / H1H025025
 </p>
   <h2>Penjelasan:<br></h2>
   <ol>
